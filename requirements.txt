@@ -36,7 +36,7 @@ kombu==3.0.35
 lazy-object-proxy==1.2.2
 limits==1.1
 logilab-common==1.2.0
-Mako==1.0.3
+Mako==1.2.2
 mandrill==1.0.57
 Markdown==2.6.5
 MarkupSafe==0.23
